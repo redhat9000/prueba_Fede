@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+div {
+	background-color:#FC6;
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid #ccc;
+	width: 200px;
+}
+#uno{
+	float: right;
+}
+#dos {
+	float: right;
+}
+#tres {
+	float: right;
+}
